@@ -1,0 +1,96 @@
+{
+    "background": {
+        "color": "#000000",
+        "image": "/home/{user}/.adaptix/themes/console/skull.png",
+        "dimming": 80
+    },
+    "text": "#FFFFFF",
+    "console": {
+        "debug": {
+            "color": "#FF0000",
+            "bold": true,
+            "italic": true,
+            "underline": false
+        },
+        "status": {
+            "success": "#FF0000",
+            "error": "#FFFFFF",
+            "info": "#4D0000"
+        },
+        "operator": {
+            "color": "#FF0000",
+            "bold": true,
+            "italic": true,
+            "underline": false
+        },
+        "task": {
+            "color": "#FF0000",
+            "bold": false,
+            "italic": true,
+            "underline": false
+        },
+        "agent": {
+            "color": "#FF0000",
+            "bold": true,
+            "italic": false,
+            "underline": true
+        },
+        "command": {
+            "color": "#FF0000",
+            "bold": true,
+            "italic": true,
+            "underline": false
+        },
+        "input": {
+            "symbol": ">",
+            "color": "#FF0000",
+            "bold": true,
+            "italic": false,
+            "underline": false
+        }
+    },
+    "log": {
+        "debug": {
+            "color": "#CC0000",
+            "bold": false,
+            "italic": false,
+            "underline": false
+        },
+        "operator_connect": {
+            "color": "#FF3300",
+            "bold": false,
+            "italic": false,
+            "underline": false
+        },
+        "operator_disconnect": {
+            "color": "#990000",
+            "bold": false,
+            "italic": false,
+            "underline": false
+        },
+        "agent_new": {
+            "color": "#FF0000",
+            "bold": true,
+            "italic": false,
+            "underline": false
+        },
+        "tunnel": {
+            "color": "#FF4400",
+            "bold": false,
+            "italic": false,
+            "underline": false
+        },
+        "listener_start": {
+            "color": "#FF2200",
+            "bold": false,
+            "italic": false,
+            "underline": false
+        },
+        "listener_stop": {
+            "color": "#BB0000",
+            "bold": false,
+            "italic": false,
+            "underline": false
+        }
+    }
+}
