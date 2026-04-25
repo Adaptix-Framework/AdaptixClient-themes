@@ -2,4 +2,4 @@
 
 Quick preview of the theme.
 
-![](../_README_img/07.png)
+![](_README_img/01.png)
